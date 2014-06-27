@@ -1,0 +1,77 @@
+body { 
+  background: #ddd url(../images/bg.jpg) repeat top left !important;
+  font-family: 'Great Vibes','HelveticaNeue-Bold','Impact',sans-serif;
+  margin-left: 0; 
+  margin-top: 0; 
+  margin-right: 0; 
+  margin-bottom: 0; 
+  background-color: #000;
+  color: white;
+}
+
+#header {
+  padding-top: 15px;
+  text-align: center;
+  color: #ccc;
+}
+
+.text_blue {
+  color: #00a7ff;
+}
+
+.text_pink {
+  color: #fb05fa;
+}
+
+.split_pane {
+  padding-top: 15px;
+  background: transparent url(../images/eller.png) no-repeat top center;
+  min-height: 439px;
+}
+
+.split_pane div.pane1 {
+  float:left; 
+  width:50%; 
+}
+.split_pane div.pane2 {
+  float:left; 
+  width:50%; 
+}
+
+.names {
+  font-weight: bold;
+  font-size: 1.5em;
+  width: 100%;
+  padding-top:130px;
+  text-align:center;
+}
+
+.dates {
+  font-weight: bold;
+  font-size: 1.3em;
+  width: 100%;
+  padding-top:30px;
+  text-align:center;
+}
+
+.year {
+  font-weight: bold;
+  font-size: 1.3em;
+  width: 100%;
+  padding-top:5px;
+  text-align:center;
+  color: #ccc;
+}
+
+.sep {
+  color: #ccc;
+  font-size: 0.7em;
+}
+
+.elastislide-carousel ul li a img {
+  border: 2px solid #000 !important;
+}
+
+.elastislide-wrapper {
+  background-color: transparent !important;
+}
