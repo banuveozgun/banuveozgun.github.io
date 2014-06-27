@@ -1,7 +1,8 @@
 Bu websitesi github pages'te yayınlanıyor.
 
-Adres: http://ozgun.github.io/banuveozgun/ 
+Adres: http://banuveozgun.github.io
 
+$ git checkout -b gh-pages
 
 "gh-pages" branch'i yayınlanıyor. master'da yapılan değişiklikler sitede
 yayınlanmıyor. Sitede değişiklik yapmak için aşağıdaki yol izlenmeli:
